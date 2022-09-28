@@ -47,7 +47,7 @@ func main() {
 	// ルーティング
 	//routing.Routing(r)
 
-	r.GET("/", func(c *gin.Context) {
+	r.GET("/",func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
 			"message": "hi",
 		})
