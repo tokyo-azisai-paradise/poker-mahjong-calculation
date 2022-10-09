@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"pms/src/view"
 	"log"
 	"net/http"
+	"pms/src/view"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
