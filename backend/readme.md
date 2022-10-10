@@ -14,4 +14,4 @@ or
 
 # API Endpoints
 
-[EndPoints](https://www.notion.so/Backend-Documents-8c7c8d5ee6384ca99aff5a40f8471199)
+[EndPoints](https://great-bongo-965.notion.site/Backend-Documents-8c7c8d5ee6384ca99aff5a40f8471199)
