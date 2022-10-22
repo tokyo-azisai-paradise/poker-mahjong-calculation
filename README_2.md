@@ -38,23 +38,13 @@
 
 ## 開発技術
 ### 活用した技術
-#### API・データ
-*
-*
-
 #### フレームワーク・ライブラリ・モジュール
-*
-*
+- Frontend: TypeScript, Next.js, Tailwind, Jest
+  - Author: [長谷川祥士](https://github.com/Hasegawa-Akito)
+  - Document: [README](https://github.com/tokyo-azisai-paradise/poker-mahjong-calculation/blob/develop/frontend/README.md)
+- Backend:  Go, Gin, Gorilla WebSocket
+  - Author: [藤田恭輔](https://github.com/Techondorius)
+  - Document: [README](https://github.com/tokyo-azisai-paradise/poker-mahjong-calculation/blob/develop/backend/readme.md)
+- Other:    Nginx, ConoHa VPS
 
-#### デバイス
-*
-*
-
-### 独自技術
-#### ハッカソンで開発した独自機能・技術
-* 独自で開発したものの内容をこちらに記載してください
-* 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください。
-
-#### 製品に取り入れた研究内容（データ・ソフトウェアなど）（※アカデミック部門の場合のみ提出必須）
-* aaa
-- aaa
+![InfraStructure](backend/doc/infrastructure.jpeg)
