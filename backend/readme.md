@@ -20,4 +20,4 @@ or
 
 - [WebSocket Response Example](./doc/websocket.md)
 
-![JPHacks.png](../doc/uml_to_start.png)
+![JPHacks.png](../doc/flow_to_gamestart.jpeg)
